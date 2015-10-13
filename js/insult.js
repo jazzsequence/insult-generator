@@ -88,6 +88,7 @@
 		"You've got a face like a <span class='ass'></span>.",
 		"Nothing personal, but you're a real <span class='ass'></span>.",
 		"What a bunch of <span class='ass'></span>s.",
+		"I don't know if anyone's told you this, but you've been acting like a real <span class='ass'></span> lately.",
 	];
 
 	function randomUpSomeShit( cussing, fuckAssNoun, fuckingDescriptions ) {
